@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hygao1024-xingchen-mcp-server-badge.png)](https://mseep.ai/app/hygao1024-xingchen-mcp-server)
+
 <p align="center">
   <a href="https://xinghuo.xfyun.cn/botcenter/createbot"><img src="https://openres.xfyun.cn/xfyundoc/2024-04-26/1396db8a-313b-40f5-be2a-5babcad9cd64/1714102184743/sparklogo.svg"></a>
 </p>
